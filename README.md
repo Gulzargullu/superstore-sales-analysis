@@ -86,4 +86,4 @@ Interactive dashboard featuring:
 ## 👤 Author
 Gulzar  
 Data Analyst  
-[LinkedIn : https://www.linkedin.com/in/gulzar-b-] 
+[LinkedIn : https://www.linkedin.com/in/gulzar-bg] 
